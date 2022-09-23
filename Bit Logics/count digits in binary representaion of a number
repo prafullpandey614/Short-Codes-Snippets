@@ -1,0 +1,3 @@
+
+
+number of digits in binary digit of num  = 1 + log2(num)
